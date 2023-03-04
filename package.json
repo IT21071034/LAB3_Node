@@ -1,0 +1,19 @@
+{
+  "name": "lab3_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IT21071034/LAB3_Node.git"
+  },
+  "author": "Thewuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IT21071034/LAB3_Node/issues"
+  },
+  "homepage": "https://github.com/IT21071034/LAB3_Node#readme"
+}
